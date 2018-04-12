@@ -1,0 +1,23 @@
+.center-img {
+  display: block;
+  margin: 100 auto
+}
+  * {
+	text-decoration: none;
+}
+html
+ {
+	background-color: #ffffff;
+	background-image: url('images/body-bg.png');
+	background-repeat: no-repeat;
+	background-size: 1300px 100px;
+}
+body {
+	position: absolute;
+	 width: 2000px;
+  height: 1000px;
+  top: 30px;
+  left: 130px;
+	background-image: url('images/utp.png');
+	background-repeat: no-repeat;
+}
